@@ -10,8 +10,7 @@ Neuroengineering papers, links, etc.
 
 [Electrophysiological mechanisms of human memory consolidation](https://www.nature.com/articles/s41467-018-06553-y)
 
-[Cortical Areas Interact through a Communication Subspace]
-(https://www.sciencedirect.com/science/article/abs/pii/S0896627319300534?via%3Dihub#fig2)
+[Cortical Areas Interact through a Communication Subspace](https://www.sciencedirect.com/science/article/abs/pii/S0896627319300534?via%3Dihub#fig2)
 - [Code](https://github.com/joao-semedo/communication-subspace)
 
 [Advances in neural dust](https://www.sciencedirect.com/science/article/pii/S0959438817302386)
