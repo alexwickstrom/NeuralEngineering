@@ -6,9 +6,12 @@ Neuroengineering papers, links, etc.
 [Neuralink paper](https://www.biorxiv.org/content/10.1101/703801v2 "An Integrated BMI Platform with Thousands of Channels")
 
 ## 2018
-[Neural Prosthetics Review (Gloeb, USC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6247642/pdf/ABB2018-1435030.pdf)
+[Neural Prosthetics Review (Gloeb, USC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6247642/pdf/ABB2018-1435030.pdf) 
+
 [Electrophysiological mechanisms of human memory consolidation](https://www.nature.com/articles/s41467-018-06553-y)
-[Cortical Areas Interact through a Communication Subspace](https://www.sciencedirect.com/science/article/abs/pii/S0896627319300534?via%3Dihub#fig2)
+
+[Cortical Areas Interact through a Communication Subspace]
+(https://www.sciencedirect.com/science/article/abs/pii/S0896627319300534?via%3Dihub#fig2)
 - [Code](https://github.com/joao-semedo/communication-subspace)
 
 [Advances in neural dust](https://www.sciencedirect.com/science/article/pii/S0959438817302386)
