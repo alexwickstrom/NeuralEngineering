@@ -6,6 +6,7 @@ Neuroengineering papers, links, etc.
 [Neuralink paper](https://www.biorxiv.org/content/10.1101/703801v2 "An Integrated BMI Platform with Thousands of Channels")
 
 ## 2018
+[EEG Source Localization](https://ieeexplore.ieee.org/iel7/8471725/8512178/08513128.pdf)   
 [Neural Prosthetics Review (Gloeb, USC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6247642/pdf/ABB2018-1435030.pdf) 
 
 [Electrophysiological mechanisms of human memory consolidation](https://www.nature.com/articles/s41467-018-06553-y)
