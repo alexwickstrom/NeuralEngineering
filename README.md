@@ -17,7 +17,8 @@ Neuroengineering papers, links, etc.
 
 
 ## 2017
-[Tissue-engineered Peripheral Nerve Interfaces](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201701713)
+[Tissue-engineered Peripheral Nerve Interfaces](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201701713)  
+[NeuroPixels](https://www.nature.com/articles/nature24636)
 
 ## 2016
 [Improving data quality in neuronal population recordings](https://www.ncbi.nlm.nih.gov/pubmed/27571195)
