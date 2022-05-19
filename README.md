@@ -2,6 +2,10 @@
 
 Neuroengineering papers, links, etc.
 
+<h2> 2022 </h2>
+
+[Deep learning for biosignal control: insights from basic to real-time methods with recommendations](https://iopscience.iop.org/article/10.1088/1741-2552/ac4f9a)
+
 <h2> 2021 </h2>
 
 [Deep learning-based non-invasive brain signals -- review](https://arxiv.org/pdf/1905.04149.pdf)
